@@ -3,7 +3,7 @@
 <h3>Quick Info</h3>
 <ul>
 <li>🔭 I am currently an information technology student, enthusiastic and passionate about web technologies</li>
-<li>🧐 I'm learning about <strong>Cloud architectures</strong>, <strong>chatbots</strong>, and  <strong>full-stack development</strong>.</li>
+<li>🧐 I'm learning about <strong>cloud architectures</strong>, <strong>chatbots</strong>, and  <strong>full-stack development</strong>.</li>
 
 
 </ul>
