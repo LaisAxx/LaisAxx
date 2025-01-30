@@ -1,0 +1,33 @@
+name: Atualizar README com Tempo de Codificação
+on:
+  schedule:
+    - cron: "0 0 * * *"  
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Instalar Dependências
+        run: npm install axios
+
+      - name: Executar script para atualizar README
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: node updateReadme.js
+
+      - name: Commit e Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add README.md
+          git commit -m "🔄 Atualizando estatísticas do WakaTime" || exit 0
+          git push
