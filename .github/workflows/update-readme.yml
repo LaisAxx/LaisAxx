@@ -19,6 +19,9 @@ jobs:
       - name: Instalar Dependências
         run: npm install axios
 
+      - name: Fazer pull para garantir que o repositório
+        run: git pull origin main
+
       - name: Executar script para atualizar README
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -31,3 +34,4 @@ jobs:
           git add README.md
           git commit -m "Atualizando estatísticas do WakaTime" || exit 0
           git push
+
