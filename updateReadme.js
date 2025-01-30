@@ -1,38 +1,41 @@
 const fs = require("fs");
-const axios = require("axios");
-
-const WAKATIME_API_KEY = process.env.WAKATIME_API_KEY; 
-const GITHUB_README_PATH = "README.md"; 
-
-async function fetchWakaTimeStats() {
-  try {
-    const response = await axios.get("https://wakatime.com/api/v1/users/current/stats/last_7_days", {
-      headers: { Authorization: `Basic ${Buffer.from(WAKATIME_API_KEY).toString("base64")}` },
-    });
-
-    const languages = response.data.data.languages
-      .map((lang) => `- ${lang.name}: ${lang.text}`)
-      .join("\n");
-
-    return `## 📊 Tempo de Codificação (últimos 7 dias)\n${languages}\n`;
-  } catch (error) {
-    console.error("Erro ao buscar dados do WakaTime:", error);
-    return "Erro ao carregar dados do WakaTime.";
-  }
-}
+const fetchAllTimeStats = require("./fetchStats");
+const generateRadialGaugeUrl = require("./generateCharts");
 
 async function updateReadme() {
-  const stats = await fetchWakaTimeStats();
-  let readmeContent = fs.readFileSync(GITHUB_README_PATH, "utf-8");
+  const stats = await fetchAllTimeStats(process.env.WAKATIME_API_KEY);
 
-  // Substitui a seção de estatísticas no README
-  const updatedContent = readmeContent.replace(
-    /## 📊 Tempo de Codificação \(últimos 7 dias\)[\s\S]*?(?=\n##|$)/,
-    stats
-  );
+  if (!stats) {
+    console.log("Não foi possível carregar os dados do WakaTime.");
+    return;
+  }
 
-  fs.writeFileSync(GITHUB_README_PATH, updatedContent);
-  console.log("README atualizado!");
+  try {
+    let readmeContent = fs.readFileSync("README.md", "utf-8");
+    const languageChartUrls = await Promise.all(
+      stats.languages.slice(0, 50).map(async (language) => {
+        const time = language.total_seconds / 3600;
+        const sampleSize = language.sample_size || 100; // Atribuindo valor padrão
+        const url = await generateRadialGaugeUrl(language.name, time, sampleSize);
+        return `### ${language.name}\n![${language.name} Time](${url})\n`;
+      })
+    );
+
+    const updatedStats = `## 📊 Coding Time (All Time)\nTotal: ${stats.totalTime}\n\n### Most Used Languages\n${languageChartUrls.join("\n")}`;
+
+    const updatedContent = readmeContent.replace(
+      /## 📊 Coding Time \(All Time\)[\s\S]*/,
+      updatedStats
+    );
+
+
+    fs.writeFileSync("README.md", updatedContent);
+    console.log("README updated!");
+
+  } catch (error) {
+    console.error("Erro ao ler o arquivo README.md:", error);
+    return;
+  }
 }
 
 updateReadme();
