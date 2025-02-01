@@ -1,81 +1,12 @@
+## 🚀 About Me  
+👨‍💻 Developer | 🎓 Software Architecture Student | 💙 Passionate about coding  
+
+I love building innovative solutions with **Java, JavaScript, Python, AI and Cloud**.  
+Always learning and exploring new technologies! 🚀  
+
 ## 📊 Coding Time (All Time)
-Total: 500 hrs 58 mins
+Total: **518h 24m 6s**
 
 ### Most Used Languages
-### JavaScript
-![JavaScript Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B170.31578993361111%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
+![Languages Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22JavaScript%20(33.6%25)%20(174h%201m%2033s)%22%2C%22HTML%20(13.8%25)%20(71h%2028m%2028s)%22%2C%22CSS%20(11.9%25)%20(61h%2031m%2026s)%22%2C%22Python%20(9.4%25)%20(48h%2042m%2048s)%22%2C%22YAML%20(8.0%25)%20(41h%2021m%2041s)%22%2C%22Outros%20(23.4%25)%20(121h%2018m%209s)%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B%2233.6%22%2C%2213.8%22%2C%2211.9%22%2C%229.4%22%2C%228.0%22%2C%2223.4%22%5D%2C%22backgroundColor%22%3A%5B%22%23FF6384%22%2C%22%2336A2EB%22%2C%22%23FFCE56%22%2C%22%234BC0C0%22%2C%22%239966FF%22%2C%22%23FF9F40%22%5D%2C%22label%22%3A%22Uso%20de%20Linguagens%20(%25)%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22font%22%3A%7B%22size%22%3A14%7D%7D%7D%2C%22datalabels%22%3A%7B%22display%22%3Atrue%2C%22color%22%3A%22%23fff%22%2C%22font%22%3A%7B%22size%22%3A10%2C%22weight%22%3A%22bold%22%7D%2C%22align%22%3A%22center%22%2C%22padding%22%3A5%7D%7D%7D%7D)
 
-### HTML
-![HTML Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B71.47451715805556%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### CSS
-![CSS Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B61.523989899166665%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### Python
-![Python Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B48.71342401777778%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### YAML
-![YAML Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B40.88701186972222%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### SCSS
-![SCSS Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B31.269854464722222%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### Java
-![Java Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B22.848967706666667%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### TypeScript
-![TypeScript Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B16.877512809444443%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### Other
-![Other Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B12.7034866025%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### JSON
-![JSON Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B12.355269482499999%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### Markdown
-![Markdown Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B5.1297070611111115%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### C#
-![C# Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B4.470239160277778%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### Properties
-![Properties Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B2.9851594780555555%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### JSX
-![JSX Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B2.8068157022222224%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### Docker
-![Docker Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B2.6349551247222225%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### Text
-![Text Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B2.0102039380555556%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### Git Config
-![Git Config Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B1.9432810397222222%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### reStructuredText
-![reStructuredText Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B1.2409274369444445%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### XML
-![XML Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B0.7512862341666666%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### Bash
-![Bash Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B0.22332864833333332%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### Vue.js
-![Vue.js Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B0.20073303333333334%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### CSHTML
-![CSHTML Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B0.13032351416666665%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### VB.NET
-![VB.NET Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B0.09742849138888889%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### Sass
-![Sass Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B0.05107839916666667%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### Batchfile
-![Batchfile Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B0.03455097722222222%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
-
-### Makefile
-![Makefile Time](https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B0.004478350000000001%5D%2C%22backgroundColor%22%3A%5B%22%234e73df%22%5D%2C%22borderWidth%22%3A10%2C%22circumference%22%3A180%2C%22rotation%22%3A-90%2C%22borderColor%22%3A%22%23000%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scale%22%3A%7B%22min%22%3A0%2C%22max%22%3A300%2C%22stepSize%22%3A50%7D%2C%22rotation%22%3A3.141592653589793%2C%22circumference%22%3A3.141592653589793%7D%7D)
