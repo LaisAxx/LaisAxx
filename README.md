@@ -1,7 +1,7 @@
 ## 🚀 About Me  
 👨‍💻 Developer | 🎓 Software Architecture Student | 💙 Passionate about coding  
 
-I love building innovative solutions with **Java, JavaScript, Typescrip, Node, Python, AI and Cloud**.  
+I love building innovative solutions with **Java, JavaScript, Typescript, Node, Python, AI and Cloud**.  
 Always learning and exploring new technologies! 🚀  
 
 ## 📊 Coding Time (All Time)
